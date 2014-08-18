@@ -1,0 +1,79 @@
+body{
+}
+.about{
+	margin-top: 100px;
+	margin-left: 30px;
+}
+.slider{
+	margin-top: 80px;
+}
+.navbar-default{	
+background-color: #00ccff;
+	
+}
+.navbar-nav > li > a:focus {
+    color: red;
+    background-color: white;
+}
+.navbar-nav > li > a{
+	color:white;
+	margin: 20px;
+}
+.glyphicon-home:before {
+    content: "";
+    color: white;
+}
+.glyphicon-user:before{
+color:white;
+}
+.glyphicon-briefcase:before{
+color:white;
+}
+.glyphicon-phone-alt:before{
+color:white;
+}
+
+.service{
+	margin-top: 80px;
+}
+.services{
+	
+	margin-top: 80px;
+	padding-left: 50px;
+	padding-top:20px;
+}
+.services img {
+	
+	padding: 50px;
+}
+.services p{
+	padding: 50px;
+}
+
+.maps{
+	margin-top: 140px;
+
+}
+.profile{
+	margin-top: 20px;
+
+}
+form{
+	padding: 50px;
+}
+footer{
+	background-color: #00ccff;
+	padding: 30px;
+}
+footer li img{
+	height: 30px;
+	width: 30px;
+	border-radius: 30px;
+}
+footer ul{
+	list-style: none;
+}
+.muse{
+	background-color:#66CD00;
+	color: #fff;
+}
